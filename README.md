@@ -103,4 +103,4 @@ RMSE：对MSE开根号
 
 将单模型与组合模型在相同的测试集上进行测试并绘制图像，用 真实距离和 预测距离之间的差值来衡量预测准确性
 
-<img src="C:\Users\Gsc020504\AppData\Roaming\Typora\typora-user-images\image-20230530005726259.png" alt="image-20230530005726259" style="zoom: 80%;" />
+<img src="./image/comparison.png" alt="image-20230530005726259" style="zoom: 80%;" />
